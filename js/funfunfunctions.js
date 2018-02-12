@@ -6,6 +6,6 @@ function hello(string) {
     return `Hello ${string}!`
 }
 
-function today(day) {
-    return `Today is ${day}`
-}
+// function today(day) {
+//     return `Today is ${day}`
+// }
