@@ -18,3 +18,11 @@ function addSomething (blerb) {
     const megaBlerb = blerb + blerb
     return `Let's make a sentance so that we can practice rebasing ${megaBlerb}`
 }
+
+const beepBeep = 'ridiculous'
+const meeMorp = 'robot'
+
+function forgettingToAddConst (foo) {
+    let result = foo + beepBeep
+    return result
+}
