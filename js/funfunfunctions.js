@@ -26,3 +26,5 @@ function forgettingToAddConst (foo) {
     let result = foo + beepBeep
     return result
 }
+
+const booooop = 'some other important change'
