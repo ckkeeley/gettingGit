@@ -29,3 +29,5 @@ function forgettingToAddConst (foo) {
 
 const booooop = 'some other important change'
 const whaaat = 'cant think of more to add'
+
+const someThing = 'another const, I will figure out git one of these times'
